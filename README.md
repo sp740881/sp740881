@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sp740881&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Vivek Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sp740881&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Shivam Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sp740881&theme=react-dark&hide_border=true" /></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
