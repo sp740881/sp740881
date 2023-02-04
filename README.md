@@ -28,5 +28,8 @@
 ---
   
 [![](https://visitcount.itsvg.in/api?id=sp740881&icon=0&color=3)](https://visitcount.itsvg.in)
+   <a href="mailto:shivampr143@gmail.com" target="_blank">
+ <img src="https://img.shields.io/badge/Gmail-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfilo" />
+ </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
